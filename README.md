@@ -1,0 +1,2 @@
+# KotlinFonksiyonlar
+ Kotlin Fonksiyonlar
